@@ -9,6 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.54.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -22,6 +23,11 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.18.9",
+    "@babel/preset-react": "^7.18.6",
+    "prettier": "^2.7.1"
   },
   "browserslist": {
     "production": [
