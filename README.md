@@ -1,3 +1,3 @@
-Simple ecommerece website using ReactJs.
+Simple ecommerce website using React.js.
 
 Visit the App: https://crown-clothing-muyeen.netlify.app/
